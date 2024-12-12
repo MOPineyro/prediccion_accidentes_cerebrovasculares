@@ -1,5 +1,7 @@
 # Predicción de Accidentes Cerebrovasculares
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MOPineyro/prediccion_accidentes_cerebrovasculares/blob/main/prediccion_accidentes_cerebrovasculares.ipynb)
+
 Análisis y modelado predictivo para la detección temprana de riesgo de accidentes cerebrovasculares.
 
 ## Descripción del Proyecto
