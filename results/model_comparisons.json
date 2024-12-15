@@ -8,30 +8,30 @@
       "roc_auc": 0.8164089797344514
     },
     "description": "Modelo tradicional usando Random Forest con hiperpar\u00e1metros optimizados",
-    "timestamp": "2024-12-12T19:34:18.017681"
+    "timestamp": "2024-12-14T21:20:34.433566"
   },
   "Red Neuronal Optimizada": {
     "metrics": {
-      "accuracy": 0.8473053892215568,
-      "precision": 0.16560509554140126,
-      "recall": 0.5416666666666666,
-      "f1": 0.25365853658536586,
+      "accuracy": 0.8273453093812375,
+      "precision": 0.13450292397660818,
+      "recall": 0.4791666666666667,
+      "f1": 0.2100456621004566,
       "threshold": 0.2,
-      "roc_auc": 0.7910115303983228
+      "roc_auc": 0.7818832983927323
     },
     "description": "Modelo final usando Focal Loss y umbral optimizado",
-    "timestamp": "2024-12-12T19:37:20.108757"
+    "timestamp": "2024-12-14T21:22:44.790822"
   },
   "Red Neuronal B\u00e1sica": {
     "metrics": {
-      "accuracy": 0.8153692614770459,
-      "precision": 0.11299435028248588,
-      "recall": 0.4166666666666667,
-      "f1": 0.17777777777777778,
+      "accuracy": 0.811377245508982,
+      "precision": 0.11475409836065574,
+      "recall": 0.4375,
+      "f1": 0.18181818181818182,
       "threshold": 0.1,
-      "roc_auc": 0.7781271837875612
+      "roc_auc": 0.7594558001397623
     },
     "description": "Implementaci\u00f3n inicial sin optimizaciones",
-    "timestamp": "2024-12-12T19:37:00.216587"
+    "timestamp": "2024-12-14T21:22:28.533945"
   }
 }
